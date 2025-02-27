@@ -28,7 +28,7 @@ Open index.html in your browser.
 
 🎨 Preview
 
-Live Demo (Add a link if hosted)
+Live Demo (https://magnificent-bubblegum-9869d5.netlify.app/)
 
 📬 Contact
 
