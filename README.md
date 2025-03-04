@@ -1,4 +1,4 @@
-Bisac Dashboard
+# Bisac Dashboard
 
 🌟 Introduction
 
@@ -14,15 +14,11 @@ Responsive design for all devices
 
 🛠 Technologies Used
 
-HTML5
+HTML / CSS
 
-CSS3
 
 📂 Installation & Usage
 
-Clone the repository:
-
-git clone https://github.com/AbdallahMaherDev/Bisac-Dashboard.git
 
 Open index.html in your browser.
 
